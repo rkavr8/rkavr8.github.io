@@ -41,6 +41,12 @@ p {
     line-height: 20px;
 }
 
+pre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    padding-left: 15px;
+}
+
 a {
     color: #2b8091;
     text-decoration: none;
