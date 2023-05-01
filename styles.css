@@ -72,6 +72,11 @@ ul {
         line-height: 20px;
     }
 
+    ol li {
+        font-weight: bold;
+        color: #2b8091;
+    }
+
 table {  
     border:2px solid;
     border-color: #333333;
@@ -96,6 +101,10 @@ td {
 tr:nth-child(even) {
     background-color: #2b8091;
     color:#F5FAFF;
+}
+
+p.list-paragraph {
+    padding-left:25px;
 }
 
 .gamefont{ 
